@@ -46,10 +46,10 @@
   background-color: #23014a;
 }
 
-.actions button[type='button'] {
+.actions button[type="button"] {
   background-color: transparent;
 }
 
-.actions button[type='button']:hover {
+.actions button[type="button"]:hover {
   color: #d1bee6;
 }
